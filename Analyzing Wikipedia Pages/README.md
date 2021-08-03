@@ -43,6 +43,6 @@ I'm a full stack developer Data Scientist...
 - Light/dark mode toggle
 - Live previews
 - Fullscreen mode
-- Cross platform
+- Cross platform.
 
   
