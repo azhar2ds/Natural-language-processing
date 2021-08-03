@@ -29,13 +29,9 @@ Add badges from somewhere like: [NOTEBOOK](https://github.com/azhar2ds/Natural-l
   
 ## FAQ
 
-#### Question 1
+#### ANY QUESTIONS????
 
-Answer 1
 
-#### Question 2
-
-Answer 2
 
   
 ## 🚀 About Me
